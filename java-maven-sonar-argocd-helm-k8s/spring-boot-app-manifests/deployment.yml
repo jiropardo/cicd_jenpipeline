@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: albertopozosdelrio/jiro-repo:ultreplaceImageTag
+        image: albertopozosdelrio/jiro-repo:ult2
         ports:
         - containerPort: 8080
